@@ -1,3 +1,4 @@
-NÉV
-SZAK
-NEPTUN KÓD
+Név: Erős Gergely
+Szak: Mérnökinformatikus
+Neptun kód: C2YKDC
+Képzés kódja:MEIN-AT-07
